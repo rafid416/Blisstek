@@ -1,2 +1,14 @@
-# Blisstek
-An example of a mobile friendly and responsive website
+
+This is an example of a website created during my time at Trios College.
+
+It features a fully responsive, cross browser and mobile friendly design.
+
+## Tech used:
+
+  * HTML5
+  * CSS 3
+  * Bootstrap 4
+  * Jquery
+  * Illustrator - Logo creation
+  * Photoshop - Img editing
+
