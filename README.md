@@ -1,10 +1,10 @@
 # Blisstek
 
-A mock website created during my time at Trios College.
+> A mock website created during my time at Trios College.
 
 It features a fully responsive, cross browser and mobile friendly design.
 
-## Tech used:
+## Built with:
 
   * HTML5
   * CSS 3
